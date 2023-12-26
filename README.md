@@ -1,4 +1,4 @@
-<h1 align="center">🌟 M'rad Omar - Portfolio 🌟</h1>
+<h1 align="center">🌟 CSFelix - Portfolio 🌟</h1>
 
 ----
 <br>
@@ -21,8 +21,9 @@
 
 ### `⚙️ Run ⚙️`
 
-> **Access OmarMrad-670.github.io and enjoy yourself!! [https://OmarMrad-670.github.io](https://OmarMrad-670.github.io)**
+> **Access csfelix.github.io and enjoy yourself!! [https://csfelix.github.io](https://csfelix.github.io)**
 
+> **Lincense: [GNU General Public License v3.0](https://github.com/CSFelix/CSFelix.github.io/blob/main/LICENSE)**
 
 ----
 <br>
@@ -42,10 +43,12 @@
 
 ### `📫 Reach Me 📫`
 
-> **Email:** **[mradomar670@gmail.com](mradomar670@gmail.com?)**
+> **Email:** **[csfelix08@gmail.com](mailto:csfelix08@gmail.com?)**
 
-> **Linkedin:** **[linkedin.com/in/omar-mrad/](https://www.linkedin.com/in/omar-mrad/)**
+> **Linkedin:** **[linkedin.com/in/csfelix/](https://www.linkedin.com/in/csfelix/)**
+
+> **Instagram:** **[instagram.com/c0deplus/](https://www.instagram.com/c0deplus/)**
 
 ----
 
-> **Kaggle:** **[omarmrad](https://www.kaggle.com/omarmrad)**
+> **Kaggle:** **[DSFelix](https://www.kaggle.com/dsfelix)**
