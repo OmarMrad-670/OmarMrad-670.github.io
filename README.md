@@ -21,9 +21,8 @@
 
 ### `⚙️ Run ⚙️`
 
-> **Access csfelix.github.io and enjoy yourself!! [https://csfelix.github.io](https://csfelix.github.io)**
+> **Access OmarMrad-670.github.io and enjoy yourself!! [https://OmarMrad-670.github.io](https://OmarMrad-670.github.io)**
 
-> **Lincense: [GNU General Public License v3.0](https://github.com/CSFelix/CSFelix.github.io/blob/main/LICENSE)**
 
 ----
 <br>
@@ -43,12 +42,11 @@
 
 ### `📫 Reach Me 📫`
 
-> **Email:** **[csfelix08@gmail.com](mailto:csfelix08@gmail.com?)**
+> **Email:** **[mradomar670@gmail.com](mradomar670@gmail.com?)**
 
-> **Linkedin:** **[linkedin.com/in/csfelix/](https://www.linkedin.com/in/csfelix/)**
+> **Linkedin:** **[linkedin.com/in/omar-mrad/](https://www.linkedin.com/in/omar-mrad/)**
 
-> **Instagram:** **[instagram.com/c0deplus/](https://www.instagram.com/c0deplus/)**
 
 ----
 
-> **Kaggle:** **[DSFelix](https://www.kaggle.com/dsfelix)**
+> **Kaggle:** **[omarmrad](https://www.kaggle.com/omarmrad)**
