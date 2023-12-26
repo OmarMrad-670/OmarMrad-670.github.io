@@ -1,4 +1,4 @@
-<h1 align="center">🌟 CSFelix - Portfolio 🌟</h1>
+<h1 align="center">🌟 M'rad Omar - Portfolio 🌟</h1>
 
 ----
 <br>
